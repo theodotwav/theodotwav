@@ -1,4 +1,4 @@
-## Hello! My name is Theo.
+## Hello! My name is Theo!
 
 I am a beginner programmer, my dream project is Imagik (could change to Neoblox)
 
